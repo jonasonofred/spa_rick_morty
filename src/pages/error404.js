@@ -3,7 +3,7 @@ const error404 = () => {
   const view = `
 
     <div class="error404">
-      <h2>Erro 404</h2>
+      <h2>Error 404</h2>
     </div>
 
   `;

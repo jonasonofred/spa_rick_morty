@@ -1,3 +1,7 @@
-const prueba = () => [1, 2];
+import router from './routes';
 
-const [a, b] = prueba();
+
+
+
+window.addEventListener( 'load', router );
+window.addEventListener( 'hashchange', router );
